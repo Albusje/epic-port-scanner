@@ -1,5 +1,5 @@
 # epic-port-scanner
-Scan the given ports from given address
+Scan the given ports from given address. Used as an exercise to find "information" from open ports.
 REMINDER:
 Scanning ports without permission is no way acceptable. In any circumstances use only with permission and at own risk.
 
