@@ -11,8 +11,8 @@ import java.util.TreeSet;
 
 public class scanner {
     //These values can limit the search length
-    final static int MIN_PORT = 1024;
-    final static int MAX_PORT = 49151;
+    final static int MIN_PORT = ;   // Give the lowest wanted value to limit search
+    final static int MAX_PORT = ;   // Give the highest wanted value to limit search
     
     public static void main(String[] args) throws Exception {
         Scanner reader = new Scanner(System.in);
